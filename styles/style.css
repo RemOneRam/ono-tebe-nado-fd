@@ -139,8 +139,8 @@ padding: 180px 24px 0 24px;
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
-  color: white; 
-  list-style: none; 
+  color: white;
+  list-style: none;
 }
 
 .lots__card-list-item {
@@ -277,7 +277,7 @@ margin-left: 47px;
   margin-left: 154px;
   margin-right: 177px;
   margin-bottom: 115px;
-  list-style: none; 
+  list-style: none;
   white-space: nowrap;
 }
 
