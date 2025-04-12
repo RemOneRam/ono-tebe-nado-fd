@@ -285,7 +285,6 @@ margin-left: 47px;
   white-space: nowrap; 
 }
 
-.footer__menu-list-item {}
 
 .footer__menu-link {
   text-decoration: underline;
@@ -303,14 +302,6 @@ margin-left: 47px;
   margin-bottom: 131px;
   list-style: none;
 
-}
-
-.footer__social-list-item {
-  
-}
-
-.footer__social-link {
- 
 }
 
 .footer__social-icon{
